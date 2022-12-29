@@ -1,10 +1,11 @@
 {
   "expo": {
-    "name": "rn-first-app",
-    "slug": "rn-first-app",
+    "name": "rn-task-list",
+    "slug": "rn-task-list",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
+    "backgroundColor": "#FFFFFF",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
